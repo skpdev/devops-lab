@@ -1,0 +1,7 @@
+Month 1 - Week 1 - Day 1
+
+Today I:
+- Created a consistent directory structure for my DevOps lab.
+- Practiced basic Linux shell navigation (pwd, ls, cd).
+- Created, moved, copied, and deleted files and directories safely.
+- Practiced using relative and absolute paths.

@@ -1,0 +1,1 @@
+Day 1: navigation, file/dir operations, safe rm, lab structure created on Ubuntu.
