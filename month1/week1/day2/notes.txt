@@ -1,0 +1,2 @@
+Day 1: navigation, file/dir operations, safe rm, lab structure created on Ubuntu.
+Day 2: chmod (600/644/755), executable script hello_day2.sh, file viewing tools,syslog tail -f.

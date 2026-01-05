@@ -1,0 +1,7 @@
+Month 1 - Week 1 - Day 2
+
+Today I:
+- Practiced viewing and changing file permissions with chmod (600, 644, 755).
+- Created and executed a simple shell script (hello_day2.sh).
+- Used cat, head, tail, and less to inspect file contents.
+- Viewed system log files with tail and tail -f.

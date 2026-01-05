@@ -1,0 +1,10 @@
+Line 1: This is a test file.
+Line 2: Practicing head and tail.
+Line 3: More sample data.
+Line 4: Learning DevOps foundations.
+Line 5: Linux basics.
+Line 6: Git and GitHub.
+Line 7: AWS soon.
+Line 8: Terraform soon.
+Line 9: Kubernetes later.
+Line 10: Observability later.
