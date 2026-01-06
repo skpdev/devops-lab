@@ -1,0 +1,8 @@
+Month 1 - Week 1 - Day 3
+
+Today I:
+- Practiced shell redirection using >, >>, and 2> to separate stdout and stderr.
+- Learned to combine stdout and stderr into a single log file using 2>&1.
+- Created a sample application log file (app.log).
+- Used grep, wc, sort, uniq, and tail to search and summarize log data.
+- Practiced tail -f to simulate real-time log monitoring.

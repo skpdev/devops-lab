@@ -1,0 +1,1 @@
+Day 3: redirection (> >> 2> 2>&1), simple logging script, grep + wc + sort + uniq for log analysis, tail -f.

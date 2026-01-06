@@ -1,0 +1,12 @@
+2025-01-01 10:00:00 INFO  Starting application
+2025-01-01 10:01:00 INFO  User login successful
+2025-01-01 10:02:00 WARN  Slow response detected
+2025-01-01 10:03:00 ERROR Failed to connect to database
+2025-01-01 10:04:00 INFO  Request completed
+2025-01-01 10:05:00 ERROR Timeout while calling external API
+2025-01-01 10:06:00 WARN  High memory usage
+2025-01-01 10:07:00 INFO  User logout
+2025-01-01 10:08:00 INFO  Health check passed
+2025-01-01 10:09:00 ERROR Disk space critically low
+2025-01-01 10:10:00 INFO  Background task completed
+2025-01-01 10:11:00 ERROR Background task failed validation
