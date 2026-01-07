@@ -1,0 +1,1 @@
+Day 4: practiced Git workflow (branch -> commit -> push -> merge), created month1/week1/overview.md as a portfolio-friendly summary.
