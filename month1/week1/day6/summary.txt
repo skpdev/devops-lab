@@ -1,4 +1,7 @@
 Month 1 - Week 1 - Day 6
 
 Today I:
--
+- Wrote a disk usage check script (check_disk_usage.sh) that accepts a threshold and uses proper exit codes.
+- Created a backup script (backup_day_logs.sh) to tar and compress the month1/week1 directory with timestamped filenames.
+- Practiced using arguments, validation, and exit codes in Bash scripts.
+- Added a Week 1 scripts documentation file (scripts.md) to make these utilities easier to understand for others.

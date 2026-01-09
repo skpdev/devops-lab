@@ -1,1 +1,2 @@
 Day 6 notes:
+Day 6: created check_disk_usage.sh and backup_day_logs.sh, plus scripts.md to document them for others.
